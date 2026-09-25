@@ -1,0 +1,6 @@
+{
+  "name": "Cred Sempre + - Soluções em Crédito",
+  "description": "Simule seu crédito com a Cred Sempre +: Consignado, Antecipação FGTS, INSS, Bolsa Família e Crédito na Conta de Energia. Atendimento rápido e seguro pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
